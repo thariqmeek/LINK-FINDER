@@ -7,6 +7,7 @@ import ast
 app = Flask(__name__,
             template_folder="template")
 
+# Heyyy People, Hello World!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 @app.route('/')
 def customer():
